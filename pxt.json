@@ -1,5 +1,5 @@
 {
-    "name": "v2 oled supercomp 128 by 31",
+    "name": "v2 oled supercomp 128 by 63",
     "description": "",
     "dependencies": {
         "core": "*",
