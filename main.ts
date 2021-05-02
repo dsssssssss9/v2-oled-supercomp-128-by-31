@@ -31,6 +31,3 @@ basic.forever(function () {
     0
     )
 })
-basic.forever(function () {
-	
-})
