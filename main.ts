@@ -26,8 +26,8 @@ basic.forever(function () {
     OLED12864_I2C.rect(
     Pix_X,
     Pix_Y,
-    Pix_X + 1,
-    Pix_Y + 1,
+    Pix_X + 2,
+    Pix_Y + 2,
     0
     )
 })
